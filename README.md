@@ -12,7 +12,7 @@ Another benefical usage of the package is synchronization of diverse motion capt
 
 WIP: The python notebook examples in [`examples`](examples) folder provide comprehensive mini-tutorials how to use the code:
 - [two systems sync by gyroscope data](examples/Smartphone_and_MCU-board_data_sync.ipynb);
-- TODO mocap data (position orientation) and robot data sync;
+- TODO mocap data (position orientation) and robot data sync (temoporaly [here](https://github.com/Marselka/mocap_imu_offset_obtaining_));
 - TODO clock drift evaluation of two independent systems;
 
 ## References
